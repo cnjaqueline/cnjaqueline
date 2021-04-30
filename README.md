@@ -9,20 +9,20 @@
 ---
 #### About me
 
-:bank: Sou Software QA Analyst na Fitcard
+:bank: I'm Software QA Analyst at Fitcard.
 
-:mortar_board: Formada em Ciência da Computação pela Universidade Candido Mendes(UCAM) e pós-graduada em Produção e Sistemas pelo Instituto Federal Fluminense(IFF). 
+:mortar_board: Graduated in Computer Science from Candido Mendes University (UCAM) and post-graduated in Production and Systems from Instituto Federal Fluminense (IFF). 
 
-:computer: Tenho uma década de experiência com desenvolvimento de software e atuei em diversas fases, desde requisitos à suporte de sistemas em Produção(N4).
-- Na área de qualidade tenho experiência com definição de cenários de teste, testes funcionais E2E(manual e automatizado), teste de API, teste exploratório.
-- Atualmente, venho me dedicando ao estudo de automação de testes utilizando o Cypress com o objetivo de: 
-1. Automatizar testes repetitivos
-2. Executar testes mais rápidos quando comparados ao manual
-3. Realizar testes paralelos
-4. Permitir a integração dos testes no CI/CD
-- A escolha do Cypress foi por alguns fatores como: ser uma ferramenta que utiliza Javascript e Typescript, o que leva a uma baixa curva de aprendizagem, possui uma excelente documentação e suporte da comunidade, executa em mode "headless" e tem diversos plugins.
+:computer: I've a decade of experience with software development and I've worked in several development phases, from requirements to support systems in Production.
+- In the quality area I've experience with defining test scenarios, E2E functional tests (manual and automated), API testing, exploratory testing.
+- Currently, I've been dedicating myself to the study of test automation using Cypress in order to: 
+1. Automate repetitive testing
+2. Run faster tests
+3. Run parallel tests
+4. Allow integration of tests on CI / CD
+- The choice of Cypress was due to some factors such as: being a tool that uses Javascript and Typescript, which leads to a low learning curve, has excellent documentation and community support, runs in "headless" mode and has several plugins.
 
-:palm_tree: Em meu tempo livre curto passeios em meio a natureza com minha família e experimentar comidas diferentes.
+:palm_tree: In my free time I enjoy nature walks with my family and try different foods.
 
 <!--
 **cnjaqueline/cnjaqueline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
