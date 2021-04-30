@@ -15,7 +15,7 @@
 
 :computer: Tenho uma década de experiência com desenvolvimento de software e atuei em diversas fases, desde requisitos à suporte de sistemas em Produção(N4).
 - Na área de qualidade tenho experiência com definição de cenários de teste, testes funcionais E2E(manual e automatizado), teste de API, teste exploratório.
-:cypress: Atualmente, venho me dedicando ao estudo de automação de testes utilizando o Cypress com o objetivo de: 
+- Atualmente, venho me dedicando ao estudo de automação de testes utilizando o Cypress com o objetivo de: 
 1. Automatizar testes repetitivos
 2. Executar testes mais rápidos quando comparados ao manual
 3. Realizar testes paralelos
