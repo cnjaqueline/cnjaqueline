@@ -21,7 +21,8 @@
 3. Realizar testes paralelos
 4. Permitir a integração dos testes no CI/CD
 - A escolha do Cypress foi por alguns fatores como: ser uma ferramenta que utiliza Javascript e Typescript, o que leva a uma baixa curva de aprendizagem, possui uma excelente documentação e suporte da comunidade, executa em mode "headless" e tem diversos plugins.
-:palm_tree: No meu tempo livre curto passeios em meio a natureza com a minha família e experimentar comidas diferentes.
+
+:palm_tree: Em meu tempo livre curto passeios em meio a natureza com minha família e experimentar comidas diferentes.
 
 <!--
 **cnjaqueline/cnjaqueline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
