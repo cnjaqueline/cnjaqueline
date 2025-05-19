@@ -9,9 +9,9 @@
 ---
 #### About me
 
-:bank: I'm Software QA Analyst at Fitcard.
+:bank: I'm Software QA Analyst at Zé Delivery.
 
-:mortar_board: Graduated in Computer Science from Candido Mendes University (UCAM) and post-graduated in Production and Systems from Instituto Federal Fluminense (IFF). 
+:mortar_board: Graduated in Computer Science from Candido Mendes University (UCAM) and post-graduated in Production and Systems from Instituto Federal Fluminense (IFF) and post-graduated in Quality Engineering and Software Testing from PUC Minas. 
 
 :computer: I've a decade of experience with software development and I've worked in several development phases, from requirements to support systems in Production.
 - In the quality area I've experience with defining test scenarios, E2E functional tests (manual and automated), API testing, exploratory testing.
